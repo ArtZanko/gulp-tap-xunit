@@ -1,0 +1,31 @@
+{
+  "name": "gulp-tap-xunit",
+  "version": "0.0.3",
+  "description": "A gulp plugin for wrapping tape results to xUnit format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtZanko/gulp-tap-xunit.git"
+  },
+  "keywords": [
+    "tape",
+    "gulp",
+    "xunit",
+    "tap"
+  ],
+  "author": "Artem Zanko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArtZanko/gulp-tap-xunit/issues"
+  },
+  "homepage": "https://github.com/ArtZanko/gulp-tap-xunit#readme",
+  "dependencies": {
+    "duplexer": "^0.1.1",
+    "require-uncached": "^1.0.2",
+    "through2": "^2.0.0",
+    "xmlbuilder": "^2.6.4"
+  }
+}
