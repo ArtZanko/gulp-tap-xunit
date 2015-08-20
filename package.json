@@ -6,10 +6,7 @@
   "scripts": {
     "test": "tape test/*.spec.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ArtZanko/gulp-tap-xunit.git"
-  },
+  "repository": "ArtZanko/gulp-tap-xunit",
   "keywords": [
     "tape",
     "gulp",
